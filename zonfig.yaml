@@ -1,0 +1,7 @@
+path: C:/proj3yolo/Data
+train: C:/proj3yolo/Data/images/train
+test: C:/proj3yolo/Data/images/test
+val : C:/proj3yolo/Data/images/val
+
+names:  
+  0: CRACK

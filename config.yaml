@@ -1,0 +1,7 @@
+path: C:/proj1yolo/data
+train: C:/proj1yolo/data/images/train
+test: C:/proj1yolo/data/images/test
+val : C:/proj1yolo/data/images/val
+
+names:  
+  0: SCRATCH
